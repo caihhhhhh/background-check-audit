@@ -2,6 +2,24 @@
   <img src="docs/images/hero.png" alt="背调-proof 简历审计：每一句简历，都经得起背调" width="100%" />
 </p>
 
+<p align="center">
+  <strong>每一句，都经得起背调。</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/caihhhhhh/background-check-audit/actions/workflows/ci.yml"><img src="https://github.com/caihhhhhh/background-check-audit/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://developers.openai.com/codex"><img src="https://img.shields.io/badge/Codex-Agent_Skill-111827?style=flat-square" alt="Codex Skill" /></a>
+  <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-Compatible-D97757?style=flat-square" alt="Claude Code" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10B981?style=flat-square" alt="License: MIT" /></a>
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="#安装">安装</a> ·
+  <a href="#怎么用">怎么用</a>
+</p>
+
 # 背调-proof 简历审计
 
 > 你简历里的每一句，都经得起背调吗？

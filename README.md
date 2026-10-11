@@ -2,6 +2,24 @@
   <img src="docs/images/hero.png" alt="Background-check-proof resume audit: every line survives verification" width="100%" />
 </p>
 
+<p align="center">
+  <strong>Every line survives verification.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/caihhhhhh/background-check-audit/actions/workflows/ci.yml"><img src="https://github.com/caihhhhhh/background-check-audit/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://developers.openai.com/codex"><img src="https://img.shields.io/badge/Codex-Agent_Skill-111827?style=flat-square" alt="Codex Skill" /></a>
+  <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-Compatible-D97757?style=flat-square" alt="Claude Code" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10B981?style=flat-square" alt="License: MIT" /></a>
+</p>
+
+<p align="center">
+  <a href="README.zh-CN.md">中文</a> ·
+  <a href="#install">Install</a> ·
+  <a href="#how-it-works">How it works</a>
+</p>
+
 # Background-Check-Proof Resume Audit
 
 > Can every line on your resume survive a background check?
