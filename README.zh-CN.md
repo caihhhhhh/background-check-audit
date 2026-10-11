@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="docs/images/hero.png" alt="背调-proof 简历审计：每一句简历，都经得起背调" width="100%" />
+  <a href="#安装">
+    <img src="docs/images/hero.png" alt="背调-proof 简历审计：每一句简历，都经得起背调" width="100%" />
+  </a>
 </p>
 
 <p align="center">
